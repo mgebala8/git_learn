@@ -7,3 +7,5 @@ Zmiany lokalne
 
 
 NOwa zmiana w pliku 
+
+dodatkowa linia
