@@ -1,1 +1,2 @@
 pierwsza wersja pliku branch master
+dopisujemy drugą linijke 
