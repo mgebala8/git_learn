@@ -4,3 +4,6 @@ dodajemy 3 linijKE
 4 LINIA
 
 Zmiany lokalne
+
+
+NOwa zmiana w pliku 
